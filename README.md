@@ -6,10 +6,14 @@ It will automatically merge with existing entries on the lists and disable entri
 
 Specify remote lists in `/etc/pihole-updatelists.conf` file.
 
-### Install
-
-# ```bash
-# wget -q -O - https://raw.githubusercontent.com/jacklul/pihole-updatelists/master/install.sh | sudo bash
-# ```  
+try this first  
 test 1  
 wget -q -O - https://github.com/sml156/pihole-updatelists.git
+
+
+Authors version  
+### Install
+
+```bash
+wget -q -O - https://raw.githubusercontent.com/jacklul/pihole-updatelists/master/install.sh | sudo bash
+```  
