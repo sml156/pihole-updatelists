@@ -8,6 +8,8 @@ Specify remote lists in `/etc/pihole-updatelists.conf` file.
 
 ### Install
 
-```bash
-wget -q -O - https://raw.githubusercontent.com/jacklul/pihole-updatelists/master/install.sh | sudo bash
-```
+# ```bash
+# wget -q -O - https://raw.githubusercontent.com/jacklul/pihole-updatelists/master/install.sh | sudo bash
+# ```  
+test 1  
+wget -q -O - https://github.com/sml156/pihole-updatelists.git
